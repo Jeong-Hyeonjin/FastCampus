@@ -1,0 +1,15 @@
+
+management.endpoints.web.exposure.include: "*"
+
+# ????
+uno:
+  korean:
+    hello: ?????
+  english:
+    hello: hello
+
+#spring:
+#  jpa:
+#    generate-ddl: true
+#    show-sql: true
+#    open-in-view: false
